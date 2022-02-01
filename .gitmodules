@@ -1,0 +1,4 @@
+[submodule "FConsoleExample"]
+	path = FConsoleExample
+	url = https://github.com/gmfCoding/FConsoleExample.git
+	branch = main
